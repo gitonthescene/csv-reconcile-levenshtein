@@ -1,0 +1,2 @@
+* CSV Reconcile Levenshtein distance scoring plugin
+  A scoring plugin for [[https://github.com/gitonthescene/csv-reconcile][csv-reconcile]] using [[https://en.wikipedia.org/wiki/Levenshtein_distance][Levenshtein distance]].  See csv-reconcile for details.

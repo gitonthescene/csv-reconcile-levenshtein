@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "csv-reconcile-levenshtein"
-version = "0.1.1"
+version = "0.1.3"
 description = "Levenshtein distance scoring plugin for csv-reconcile"
 authors = ["Douglas Mennella <trx2358-pypi@yahoo.com>"]
 license = "MIT"
@@ -14,7 +14,7 @@ keywords = ["OpenRefine",
 [tool.poetry.dependencies]
 python = "^3.7"
 python-Levenshtein = "^0.12.2"
-csv-reconcile = "^0.1.0"
+csv-reconcile = "^0.2"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"

@@ -1,4 +1,4 @@
-__version__ = '0.1.5'
+__version__ = '0.1.6'
 
 from csv_reconcile import scorer
 from Levenshtein import distance
